@@ -1,3 +1,4 @@
-# Belajar-Dasar-Pemrograman-JavaScript (20%)
+# Belajar-Dasar-Pemrograman-JavaScript (33%)
 
-* I learned Fundamental JavaScript
+* I learned Fundamentals of JavaScript
+* I learned Data Structures of JavaScript
