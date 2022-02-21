@@ -1,1 +1,3 @@
-# Belajar-Dasar-Pemrograman-JavaScript
+# Belajar-Dasar-Pemrograman-JavaScript (20%)
+
+* I learned Fundamental JavaScript
