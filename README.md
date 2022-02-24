@@ -1,4 +1,4 @@
-# Belajar-Dasar-Pemrograman-JavaScript (88%)
+# Belajar-Dasar-Pemrograman-JavaScript (94%)
 
 * I learned Fundamentals of JavaScript
 * I learned Data Structures of JavaScript
@@ -9,3 +9,4 @@
 * I learned more about module in JavaScript
 * I learned more about error handling in JavaScript
 * I learned more about concurrency in JavaScript
+* I learned more about mmodules in JavaScript
